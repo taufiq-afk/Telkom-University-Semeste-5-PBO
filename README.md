@@ -1,5 +1,6 @@
 Tugas Besar Pemrograman Berorientasi Objek
-Anggota Kelompok:
+
+Anggota Kelompok 2 :
 - Dyfrig Nicholas - 1301223009 
 - Aaron Barrichello P - 1301223337 
 - Frederico de Rosari - 1301220215 
